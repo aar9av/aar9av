@@ -17,33 +17,78 @@ I completed my <b>🎓 Master’s in Computer Applications</b> from <b>🏫 NIT 
 
 <!-- ICON BUTTONS -->
 <p>
-  <a href="https://aar9av.github.io/" target="_blank">
+  <a href="https://aar9av.github.io/" title="Portfolio">
     <img src="https://img.icons8.com/?size=80&id=UuZbMO5c0AHj&format=png" width="24"/>
   </a>&nbsp;
 
-  <a href="https://drive.google.com/file/d/1oT0Y_tV9bkRdR8jKCyCmtTGXOzoKJrYv/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1oT0Y_tV9bkRdR8jKCyCmtTGXOzoKJrYv/view?usp=drive_link" title="Resume">
     <img src="https://img.icons8.com/?size=48&id=kh2peJKPdmNw&format=png" width="24"/>
   </a>&nbsp;
 
-  <a href="https://www.linkedin.com/in/aar9av/" target="_blank">
+  <a href="https://www.linkedin.com/in/aar9av/" title="LinkedIn">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="24"/>
   </a>&nbsp;
 
-  <a href="https://instagram.com/aar9av" target="_blank">
+  <a href="https://instagram.com/aar9av" title="Instagram">
     <img src="https://img.icons8.com/color/48/instagram-new.png" width="24"/>
   </a>&nbsp;
 
-  <a href="https://github.com/aar9av" target="_blank">
+  <a href="https://github.com/aar9av" title="GitHub">
     <img src="https://img.icons8.com/?size=48&id=AZOZNnY73haj&format=png" width="24"/>
   </a>&nbsp;
 
-  <a href="mailto:arnavgupta.nitb@gmail.com">
+  <a href="mailto:arnavgupta.nitb@gmail.com" title="Email">
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="24"/>
   </a>&nbsp;
 
-  <a href="https://wa.me/917570003186">
+  <a href="https://wa.me/917570003186" title="Chat on WhatsApp">
     <img src="https://img.icons8.com/color/48/whatsapp.png" width="24"/>
   </a>
 </p>
 
 <br/>
+
+# 🧠 Tech Stack & Interests
+
+### 🚀 Languages  
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+</p>
+
+### ⚙️ Frameworks & Development  
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+</p>
+
+### 🗄️ Backend & Databases  
+<p>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Firestore-FFA000?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+### 📚 Core Concepts  
+<p>
+  <img src="https://img.shields.io/badge/DSA-0A192F?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DBMS-1F6FEB?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OOPS-FF6B6B?style=for-the-badge&logo=objectscript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Operating%20Systems-2EA44F?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
+
+### 🔥 Interests  
+<p>
+  <img src="https://img.shields.io/badge/Enterprise%20Architecture-6F42C1?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLD-F59E0B?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HLD-EC4899?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM-0EA5E9?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gen%20AI-FF4500?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+</p>
