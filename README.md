@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hi, I am Arnav Gupta</h1>
-<h3 align="center">✨ Backend Software Developer | Tech Enthusiast | Lifelong Learner</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Solving+Complex+Problems;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Backend+Software+Developer;Tech+Enthusiast;Lifelong+Learner" />
 </p>
 
 <br/>
@@ -15,36 +13,65 @@ I am currently working as a <b>🚀 Backend Software Developer</b> at <b>🏢 FI
 I completed my <b>🎓 Master’s in Computer Applications</b> from <b>🏫 NIT Bhopal</b> in 2025. I am highly passionate about learning new technologies and constantly strive to explore, adapt, and grow in this fast-evolving tech industry.
 </p>
 
-<!-- ICON BUTTONS -->
-<p>
+<!-- 💎 CONNECT SECTION -->
+<h4 align="left">
+  ⚡ Portfolio & Resume: &nbsp;&nbsp;
+
   <a href="https://aar9av.github.io/" title="Portfolio">
-    <img src="https://img.icons8.com/?size=80&id=UuZbMO5c0AHj&format=png" width="24"/>
+    <img src="https://img.icons8.com/?size=80&id=UuZbMO5c0AHj&format=png" width="20"/>
   </a>&nbsp;
 
-  <a href="https://drive.google.com/file/d/1oT0Y_tV9bkRdR8jKCyCmtTGXOzoKJrYv/view?usp=drive_link" title="Resume">
-    <img src="https://img.icons8.com/?size=48&id=kh2peJKPdmNw&format=png" width="24"/>
+  <a href="https://drive.google.com/file/d/1oT0Y_tV9bkRdR8jKCyCmtTGXOzoKJrYv/view" title="Resume">
+    <img src="https://img.icons8.com/?size=48&id=kh2peJKPdmNw&format=png" width="20"/>
   </a>&nbsp;
+</h4>
 
-  <a href="https://www.linkedin.com/in/aar9av/" title="LinkedIn">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="24"/>
-  </a>&nbsp;
 
-  <a href="https://instagram.com/aar9av" title="Instagram">
-    <img src="https://img.icons8.com/color/48/instagram-new.png" width="24"/>
-  </a>&nbsp;
-
-  <a href="https://github.com/aar9av" title="GitHub">
-    <img src="https://img.icons8.com/?size=48&id=AZOZNnY73haj&format=png" width="24"/>
-  </a>&nbsp;
-
-  <a href="mailto:arnavgupta.nitb@gmail.com" title="Email">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="24"/>
-  </a>&nbsp;
-
-  <a href="https://wa.me/917570003186" title="Chat on WhatsApp">
-    <img src="https://img.icons8.com/color/48/whatsapp.png" width="24"/>
+<!-- 💻 Coding + 🌍 Socials SAME LINE LOOK -->
+<h4 align="left">
+  💻 Coding Profiles: &nbsp;&nbsp;
+  
+  <a href="https://www.codechef.com/users/aar9av">
+    <img src="https://img.icons8.com/color/48/codechef.png" width="20"/>
   </a>
-</p>
+  &nbsp;
+  <a href="https://codeforces.com/profile/aar9av">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" width="20"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/aar9av/">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="20"/>
+  </a>
+  &nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/aar9av/">
+    <img src="https://img.icons8.com/color/48/GeeksforGeeks.png" width="20"/>
+  </a>
+</h4>
+
+<!-- 💎 CONNECT SECTION -->
+<h4 align="left">
+  🌍 Connect with me: &nbsp;&nbsp;
+  
+  <a href="https://www.linkedin.com/in/aar9av/">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="20"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/aar9av">
+    <img src="https://img.icons8.com/color/48/instagram-new.png" width="20"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/aar9av">
+    <img src="https://img.icons8.com/?size=48&id=AZOZNnY73haj&format=png" width="20"/>
+  </a>
+  &nbsp;
+  <a href="mailto:arnavgupta.nitb@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="20"/>
+  </a>
+  &nbsp;
+  <a href="https://wa.me/917570003186">
+    <img src="https://img.icons8.com/color/48/whatsapp.png" width="20"/>
+  </a>
+</h3>
 
 <br/>
 
@@ -92,3 +119,54 @@ I completed my <b>🎓 Master’s in Computer Applications</b> from <b>🏫 NIT 
   <img src="https://img.shields.io/badge/LLM-0EA5E9?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gen%20AI-FF4500?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 </p>
+
+</br>
+
+# 📊 Github Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aar9av&show_icons=true&theme=tokyonight" width="40%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aar9av&theme=tokyonight" width="43%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aar9av&layout=compact&theme=tokyonight" width="50%" />
+</p>
+
+
+## 🏆 Achievements
+
+- 🥇 Smart India Hackathon Finalist (Top 5 Teams)
+- 💻 Active Competitive Programmer (CodeChef / LeetCode)
+- 🚀 Backend Developer at FIS Global
+
+
+
+## 💼 Experience
+
+### 🚀 Backend Software Developer — FIS Global
+- Built scalable backend systems handling real-world financial workflows  
+- Designed APIs and optimized database queries for performance  
+- Worked on production-grade systems with high reliability  
+
+
+
+
+## 📂 Featured Projects
+
+### 🔗 TrueLink
+- Anonymous confession-based dating platform  
+- Built using Flutter + Firebase + PostgreSQL  
+- Real-time chat + matching system  
+
+### 📊 Code Buddy
+- Aggregates profiles from LeetCode, Codeforces, CodeChef  
+- Competitive coding analytics dashboard  
+
+### ♟️ Sicilian Defence
+- Full-fledged chess app with complex rules  
+- Implemented game logic + AI integration  
+
+
+
+<img src="https://komarev.com/ghpvc/?username=aar9av&label=Profile%20views&color=0e75b6&style=flat" />
